@@ -52,6 +52,6 @@
 ![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubEntermyname&show_icons=true&theme=radical)
 
 ### 🌐 Connect With Me
-- [LinkedIn](https://linkedin.com/in/danish-abdullah)  
+- [LinkedIn](www.linkedin.com/in/danish-abdullah-a32824202)  
 - [GitHub](https://github.com/GitHubEntermyname)  
-- Email: danish.abdullah@email.com  
+- Email: danishabdullah.mail@email.com  
